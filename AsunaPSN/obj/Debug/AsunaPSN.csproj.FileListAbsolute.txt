@@ -1,0 +1,13 @@
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\bin\Debug\AsunaPSN.exe.config
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\bin\Debug\AsunaPSN.exe
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\bin\Debug\AsunaPSN.pdb
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\bin\Debug\MetroFramework.Design.dll
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\bin\Debug\MetroFramework.dll
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\obj\Debug\AsunaPSN.csprojAssemblyReference.cache
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\obj\Debug\AsunaPSN.Form1.resources
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\obj\Debug\AsunaPSN.Properties.Resources.resources
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\obj\Debug\AsunaPSN.csproj.GenerateResource.cache
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\obj\Debug\AsunaPSN.csproj.CopyComplete
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\obj\Debug\AsunaPSN.exe
+C:\Users\Visua\source\repos\AsunaPSN\AsunaPSN\obj\Debug\AsunaPSN.pdb
